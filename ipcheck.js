@@ -8,6 +8,7 @@ $httpClient.get(url, function(error, response, data){
     let isp = jsonData.isp
     let ip = jsonData.query
   body = {
+    title: "Node Info",
     content: `${ip} | \n${isp} | \n${emoji}${country} - ${city} | `,
     icon: "globe.asia.australia.fill"
   }

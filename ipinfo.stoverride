@@ -6,6 +6,6 @@ tiles:
     interval: 7200
 
 script-providers:
-  IPCheck-Tile:
+  IPinfo-Tile:
     url: https://raw.githubusercontent.com/yeahip/stash/main/ipcheck.js
     interval: 86400

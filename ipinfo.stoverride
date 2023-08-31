@@ -1,5 +1,5 @@
 name: IP 信息 @yeahip
-desc: 用于显示 IP 信息的面板 (Stash 2.0+)
+desc: IP 信息面板 (Stash 2.0+)
 
 tiles:
   - name: IPinfo-Tile

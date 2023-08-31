@@ -7,5 +7,5 @@ tiles:
 
 script-providers:
   IPinfo-Tile:
-    url: https://raw.githubusercontent.com/yeahip/stash/main/ipcheck.js
+    url: https://raw.githubusercontent.com/yeahip/stash/main/ipinfo.js
     interval: 86400

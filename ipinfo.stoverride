@@ -1,0 +1,11 @@
+name: IP 信息 @yeahip
+desc: 用于显示 IP 信息的面板 (Stash 2.0+)
+
+tiles:
+  - name: IPinfo-Tile
+    interval: 7200
+
+script-providers:
+  IPCheck-Tile:
+    url: https://raw.githubusercontent.com/yeahip/stash/main/ipcheck.js
+    interval: 86400
